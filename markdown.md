@@ -16,9 +16,14 @@
     2. Лист 2 
     3. Лист 3
 
-## CODE folding
+## Обрамление кода
 ```C
 int main(void){
     print("Hello world")
 }
+```
+
+## Обрамление кода
+```python
+print("Hello world")
 ```
