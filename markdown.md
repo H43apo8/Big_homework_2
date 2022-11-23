@@ -28,6 +28,10 @@ int main(void){
 print("Hello world")
 ```
 
+## Изображение
+Это апельсин
+![Апельсин](Orange.jpg)
+
 ## Картинка
 Это яблоко
 ![Яблоко](Apple.jpg)
