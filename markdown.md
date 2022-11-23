@@ -15,3 +15,10 @@
     1. Лист 1
     2. Лист 2 
     3. Лист 3
+
+## CODE folding
+```C
+int main(void){
+    print("Hello world")
+}
+```
