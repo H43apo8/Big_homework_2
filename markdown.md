@@ -17,13 +17,13 @@
     3. Лист 3
 
 ## Обрамление кода
+Пример на С
 ```C
 int main(void){
     print("Hello world")
 }
 ```
-
-## Обрамление кода
+Пример на python
 ```python
 print("Hello world")
 ```
