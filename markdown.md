@@ -37,3 +37,6 @@ print("Hello world")
 ![Яблоко](Apple.jpg)
 
 SOME TEXT
+## Изображение
+Это кот "тефтелька"
+![Тефтелька](cat.jpg)
