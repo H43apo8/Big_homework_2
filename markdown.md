@@ -37,3 +37,5 @@ print("Hello world")
 ![Яблоко](Apple.jpg)
 
 SOME TEXT
+
+## Итересный семинар
