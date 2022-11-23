@@ -17,6 +17,13 @@
     3. Лист 3 / List3
 
 ## Обрамление кода
+Пример на С
+```C
+int main(void){
+    print("Hello world")
+}
+```
+Пример на python
 ```python
 print("Hello world")
 ```
