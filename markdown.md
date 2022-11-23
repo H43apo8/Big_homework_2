@@ -27,3 +27,7 @@ int main(void){
 ```python
 print("Hello world")
 ```
+
+## Изображение
+Это апельсин
+![Апельсин](Orange.jpg)
